@@ -1,0 +1,27 @@
+/*
+  --- UI THEME ---
+      #6C756B   <dark>
+      #93ACB5
+      #96C5F7
+      #A9D3FF
+      #F2F4FF   <light>
+*/
+
+.AppHeaderWrapper {
+    margin-bottom: 5%;
+    border-bottom: 5px solid white;
+}
+
+.AppHeader {
+    font-size: 4rem;
+    margin-bottom: 2%;
+    color: #F2F4FF;
+}
+
+.AppDesc {
+    font-size: 0.8rem;
+}
+
+.InputBox {
+    /*background-color: ;*/
+}
